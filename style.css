@@ -31,32 +31,49 @@ body {
   background-color: #777;
   width: 960px;
   font-size: 18px;
+  text-align: center;
+  margin: auto;
 }
 
 header {
   background-color: #ebebeb;
+  margin: 10px auto;
+  padding: 20px;
 }
 
 nav {
   background-color: #ebebeb;  
+  margin-bottom: 10px;
+  padding: 20px;
 }
 
 section {
   background-color: #ebebeb;
   width: 495px;
+  padding: 20px;
+  margin: 10, 10, 10, 0;
+  float: left;
 }
 
 aside {
   background-color: #ebebeb;
+  padding: 20px;
+  width: 385px;
+  margin: 10, 0, 10, 10;
+  float: left;
 }
 
 footer {
   background-color: #ebebeb;
+  padding: 20px;
+  clear: left;
+  align-items: center;
 }
 
 article {
   color: #ebebeb;
   background-color: #777;
+  padding: 10px;
 }
 
 h1 {
